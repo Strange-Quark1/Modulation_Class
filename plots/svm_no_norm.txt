@@ -1,0 +1,38 @@
+ C=10   gamma=0.5  low:  74.3  mid:  90.3  high:  92.0  | score  85.6
+  C=10   gamma=1    low:  71.9  mid:  90.2  high:  92.2  | score  84.8
+  C=10   gamma=3    low:  66.5  mid:  90.3  high:  92.4  | score  83.1
+  C=10   gamma=10   low:  56.2  mid:  89.8  high:  92.7  | score  79.6
+  C=100  gamma=0.5  low:  73.3  mid:  90.3  high:  92.2  | score  85.3
+  C=100  gamma=1    low:  71.4  mid:  90.3  high:  92.3  | score  84.7
+  C=100  gamma=3    low:  65.9  mid:  90.2  high:  92.7  | score  82.9
+  C=100  gamma=10   low:  55.9  mid:  89.0  high:  93.4  | score  79.4
+Best parameters: C=10, gamma=0.5
+-2 53.36
+0 72.92
+2 83.8
+4 86.96000000000001
+6 88.52
+8 89.94
+10 90.92
+12 91.36
+14 91.78
+16 92.12
+18 92.17999999999999
+20 91.44
+22 92.34
+24 91.5
+26 92.17999999999999
+28 91.75999999999999
+30 91.8
+8 dB (rows = true, cols = predicted; order BPSK QPSK 8PSK 16QAM 64QAM)
+[[1000    0    0    0    0]
+ [   0 1000    0    0    0]
+ [   0    0 1000    0    0]
+ [   0    0    0  746  254]
+ [   0    0    0  249  751]]
+20 dB (rows = true, cols = predicted; order BPSK QPSK 8PSK 16QAM 64QAM)
+[[1000    0    0    0    0]
+ [   0 1000    0    0    0]
+ [   0    0 1000    0    0]
+ [   0    0    0  787  213]
+ [   0    0    0  215  785]]
